@@ -28,10 +28,6 @@ self.__precacheManifest = [
     "url": "/static/media/vscode.01404fec.png"
   },
   {
-    "revision": "33df484fe68aa93c9900e03162091d9e",
-    "url": "/static/media/yogalike-explore.33df484f.jpg"
-  },
-  {
     "revision": "75ba1ccd7c01081c6b5f4a76c4516b14",
     "url": "/static/media/rasa1.75ba1ccd.png"
   },
@@ -40,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/rasa2.36ee0c56.png"
   },
   {
-    "revision": "7439f568f650ab7ab82af7f3fc01258b",
-    "url": "/static/media/rasa4.7439f568.png"
+    "revision": "33df484fe68aa93c9900e03162091d9e",
+    "url": "/static/media/yogalike-explore.33df484f.jpg"
   },
   {
     "revision": "a945779f4df782f639310e0e7bb2ccd3",
@@ -50,6 +46,10 @@ self.__precacheManifest = [
   {
     "revision": "409201aaa7eba9f2e17d733a68e600a5",
     "url": "/static/media/yogalike-plan.409201aa.jpg"
+  },
+  {
+    "revision": "7439f568f650ab7ab82af7f3fc01258b",
+    "url": "/static/media/rasa4.7439f568.png"
   },
   {
     "revision": "e72ed3d78b61f2f50ea0839582c1ca8d",
