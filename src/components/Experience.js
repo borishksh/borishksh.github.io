@@ -62,7 +62,7 @@ export default class Experience extends Component  {
                                 <font className='e-card-title'>Summer Internship</font>
                             </li>
                             <li>
-                                <font className='e-card-date'>Jul, 2020 - Sept,2020</font>
+                                <font className='e-card-date'>Jul, 2022 - Sept,2022</font>
                             </li>
                             <li>
                                 <div className={this.state.isOpen1 ? "e-card-menu1" : "e-card-menu1 active"} onClick={this.handleToggle1}>
