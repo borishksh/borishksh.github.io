@@ -82,7 +82,7 @@ export default function Contact() {
                 </ul>
             </div>
             <div className='freelance'>
-            <br/>Download my Resume from <a href='https://drive.google.com/file/d/1mxtg5an4T9sTtJ-uXLUuGQKnxrj_q0n-/view?usp=sharing' target="_blank" rel="noopener noreferrer">here</a>
+            <br/>Download my Resume from <a href='https://drive.google.com/file/d/1bt8KPkP9eL3eesLu7Q-t9MFCG2AKk0nZ/view?usp=sharing' target="_blank" rel="noopener noreferrer">here</a>
             </div>
             <div className='freelance'>
                 Available for select freelance opportunities<br/>
